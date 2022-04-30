@@ -4,6 +4,7 @@ Foi criado uma calculadora de porcentagem de gorjeta, para saber quanto o funcio
 
 
 usuário vai botar o valor recebido dentro da box.
+
 <img src="b1.png/>
 
  foi feito um código de porcentagem > setTip( (pct/100) * nBill );
